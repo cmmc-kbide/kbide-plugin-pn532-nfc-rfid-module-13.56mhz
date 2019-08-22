@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-pn532-nfc-rfid-module-13.56mhz",
+  "title": "pn532-nfc-rfid-module-13.56mhz",
+  "keywords": "pn532-nfc-rfid-module-13.56mhz, esp32, esp8266, arduino",
+  "description": "pn532-nfc-rfid-module-13.56mhz plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-pn532-nfc-rfid-module-13.56mhz/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-pn532-nfc-rfid-module-13.56mhz/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
